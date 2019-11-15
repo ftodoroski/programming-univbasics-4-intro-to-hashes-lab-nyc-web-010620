@@ -4,8 +4,8 @@ end
 
 def my_hash
   hash = {
-  name: = "Filip",
-  occupation: = "Software Engineer"
+  name: "Filip",
+  occupation: "Software Engineer"
   }
 
   hash

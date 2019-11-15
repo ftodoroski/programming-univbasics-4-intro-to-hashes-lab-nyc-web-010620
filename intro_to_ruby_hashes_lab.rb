@@ -8,6 +8,7 @@ def my_hash
   occupation: = "Software Engineer"
   }
 
+  hash
 end
 
 def pioneer

@@ -22,12 +22,12 @@ end
 def my_hash_creator(key, value)
   hash = Hash.new
   hash[key] = value
-  
+
   hash
 end
 
 def read_from_hash(hash, key)
-  # return the correct value using the hash and key parameters
+  hash[key]
 end
 
 def update_counting_hash(hash, key)

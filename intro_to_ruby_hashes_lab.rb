@@ -5,6 +5,8 @@ end
 def my_hash
   new_hash[:name] = "Filip"
   new_hash[:occupation] = "Software Engineer"
+
+  new_hash
 end
 
 def pioneer

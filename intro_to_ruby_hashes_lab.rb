@@ -3,12 +3,8 @@ def new_hash
 end
 
 def my_hash
-  hash = {
-    name: "Filip", 
-    occupation: "software engineer"
-  }
-
-  hash
+  new_hash[:name] = "Filip"
+  new_hash[:occupation] = "Software Engineer"
 end
 
 def pioneer

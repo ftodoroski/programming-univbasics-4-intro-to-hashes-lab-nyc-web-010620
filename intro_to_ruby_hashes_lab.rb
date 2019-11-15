@@ -7,6 +7,8 @@ def my_hash
     name: "Filip"
     occupation: "software engineer"
   }
+
+  hash
 end
 
 def pioneer

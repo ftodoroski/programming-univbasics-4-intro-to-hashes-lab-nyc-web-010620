@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash = {
-    name: "Filip"
+    name: "Filip", 
     occupation: "software engineer"
   }
 
